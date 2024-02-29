@@ -4,6 +4,10 @@
 
 Welcome to Minesweepers, a project developed in Visual Studio using the C programming language. This project holds a special place in my programming journey, representing a significant milestone in my skill development and problem-solving capabilities.
 
+Include 3 parts: 2 parts of C language 
+             and 1 text file.
+
+*The numbers in the text files are present the coordinates (x,y) of the mines.
 ### Project Description
 
 During my time at Hermelin College, I implemented a recursive algorithm in C to enhance my problem-solving skills and deepen my understanding of recursion. Minesweepers is the result of this effort, showcasing the application of theoretical concepts in a real-world programming scenario.
