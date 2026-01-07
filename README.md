@@ -9,7 +9,7 @@ Include 3 parts: 2 parts of C language
 
 *The numbers in the text files are present the coordinates (x,y) of the mines.
 
-![project_image_ms.png]([https://raw.githubusercontent.com/007matan/PawPartner/refs/heads/main/paw_partner_pic_1.png](https://github.com/007matan/MineSweepers/blob/master/project_image_ms.png))
+![project_image](https://raw.githubusercontent.com/007matan/MineSweepers/master/project_image_ms.png)
 
 ### Project Description
 
